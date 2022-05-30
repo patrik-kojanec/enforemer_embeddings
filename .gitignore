@@ -6,6 +6,11 @@ data/test_data/*
 data/test_data.rar
 
 enformer/*
+!enformer/.gitkeep
+!data/DNA_seqs/.gitkeep
+!data/DNA_feats/.gitkeep
+!data/test_data/.gitkeep
+!weights/.gitkeep
 
 # Python cache
 __pycache__/
