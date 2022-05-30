@@ -1,0 +1,14 @@
+# data
+data/DNA_seqs/*
+data/DNA_feats/*
+weights/*
+data/test_data/*
+data/test_data.rar
+
+enformer/*
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints

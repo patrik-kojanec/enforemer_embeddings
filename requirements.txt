@@ -1,0 +1,9 @@
+dm-sonnet==2.0.0
+kipoiseq==0.5.2
+numpy==1.19.5
+pandas==1.2.3
+tensorflow-gpu==2.4.1
+tensorflow-hub==0.11.0
+matplotlib==3.5.1
+jupyterlab
+notebook
